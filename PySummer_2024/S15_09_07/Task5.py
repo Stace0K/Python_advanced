@@ -44,7 +44,7 @@ def date_find(text):
     return
 
 
-def parse():  # Запуск  python task05.py -c 1-й -w четверг -m ноября
+def parse():  # Запуск  python Task5.py -c 1-й -w четверг -m ноября
     parser = argparse.ArgumentParser(description='Получаем строку с датой', prog='date_find()',
                                      epilog='При отсутствии значений параметров берется текущий день или текущий месяц')
     parser.add_argument('-c', '--count', default=1, help='День недели по счету')

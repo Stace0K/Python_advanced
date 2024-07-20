@@ -1,0 +1,17 @@
+INFO     - 2024-07-20 14:09:33,166 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:33,167 - A deposit of 100000000 c.u. Current balance: 100000000 c.u.
+ERROR    - 2024-07-20 14:09:33,167 - The amount is not a multiple of 50 c.u.
+ERROR    - 2024-07-20 14:09:33,167 - The amount should be a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:40,652 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:40,652 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:40,652 - A withdrawal of 133400 c.u. Withdrawal fee is 600 c.u. Current balance: 99866000 c.u.
+INFO     - 2024-07-20 14:09:46,711 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:46,711 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:46,712 - A withdrawal of 144000 c.u. Withdrawal fee is 600 c.u. Current balance: 99721400 c.u.
+INFO     - 2024-07-20 14:09:52,073 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:52,073 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:52,073 - A deposit of 2466000 c.u. Current balance: 102187400 c.u.
+INFO     - 2024-07-20 14:09:56,372 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:56,372 - The amount is a multiple of 50 c.u.
+INFO     - 2024-07-20 14:09:56,372 - A withdrawal of 13000 c.u. Withdrawal fee is 195.0 c.u. Current balance: 102174205.0 c.u.
+INFO     - 2024-07-20 14:09:58,602 - A wealth tax of 0.1% is 10217420.5 c.u. Current balance: 91956784.5 c.u.

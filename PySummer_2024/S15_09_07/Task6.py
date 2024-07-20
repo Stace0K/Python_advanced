@@ -29,7 +29,7 @@ def read_dir(path):
         logger.info(obj)
 
 
-def parse_dir(): # python task06.py -p путь
+def parse_dir(): # python Task6.py -p путь
     parser = argparse.ArgumentParser(description='Получаем путь к директории',
                                      epilog='При отсутствии значений параметров берется  текущая директория')
     parser.add_argument('-p', '--path', help='Введите путь к директории', required=True, type=Path)
